@@ -162,6 +162,7 @@ Publish the website in the given URL.
 </html>
 ```
 # OUTPUT:
+![Screenshot 2024-12-08 165122](https://github.com/user-attachments/assets/386954b1-544f-4562-a9e3-3ef456c188e2)
 
 
 https://github.com/user-attachments/assets/7095b6a2-92e2-404e-a598-6986c92af41a
